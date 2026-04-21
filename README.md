@@ -1,2 +1,2 @@
 # LeetCode
-Exercises from LeetCode
+This repository contains LeetCode exercises.
